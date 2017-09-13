@@ -1208,7 +1208,7 @@ MonoBehaviour:
   PlinkoCoinPrefab: {fileID: 114797982807831004, guid: 01d47a81017c3784582dc60a35393d71,
     type: 2}
   PlinkoCoinOrigin: {fileID: 2055501090}
-  OscillationDistance: 1
+  OscillationDistance: 0.7
   OscillationSpeed: 2
   BellDing: {fileID: 1009904273}
   Thud: {fileID: 1359439101}
@@ -11491,7 +11491,7 @@ ParticleSystem:
   moveWithTransform: 1
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: 1634905892
+  randomSeed: 1558287837
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -17594,8 +17594,8 @@ MonoBehaviour:
   CoinPrefab: {fileID: 1857266154057310, guid: 26ac56dd461825d48b3534bb7594f7e7, type: 2}
   CoinPile: {fileID: 110075792}
   DistanceFromFace: 0.5
-  MinTossPower: 0
-  MaxTossPower: 100
+  MinTossPower: 10
+  MaxTossPower: 13
   SliderSpeed: 2
   clickNotification: {fileID: 110075794}
   yay: {fileID: 941696619}
